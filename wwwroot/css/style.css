@@ -1,0 +1,20 @@
+#reg-wrapper, #login-wrapper{
+    width: 50%;
+    margin: 20px auto;
+}
+input{
+    margin: 5px;
+    width: 200px;
+}
+h1{
+    text-align: center;
+}
+form{
+    padding: 30px;
+    width: 650px;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+span{
+    color: red;
+}
